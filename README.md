@@ -1,5 +1,5 @@
-# captcha-resolver-python
-This project hosts the python code which is trains the captcha resolver and provides the output .dat and .hdf5 files
+# Captcha Recognition
+This project hosts the python code which it trains the captcha resolver and provides the output .dat and .hdf5 files
 
 Steps to train the captcha model
 
